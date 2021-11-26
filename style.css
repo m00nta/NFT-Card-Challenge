@@ -104,7 +104,7 @@ main {
 .card-img {
   width: 33rem;
   height: 33rem;
-  background-image: url("/images/image-equilibrium.jpg");
+  background-image: url("./images/image-equilibrium.jpg");
   background-size: cover;
   border-radius: 1.2rem;
   position: relative;
@@ -123,7 +123,7 @@ main {
       hsl(178, 100%, 50%, 0.5),
       hsl(178, 100%, 50%, 0.5)
     ),
-    url("/images/image-equilibrium.jpg");
+    url("./images/image-equilibrium.jpg");
 }
 
 .card-img:hover.card-img img {
