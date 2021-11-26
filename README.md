@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/m00nta/NFT-Card-Challenge)
 - Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
